@@ -1,0 +1,70 @@
+body {
+    background-color: #ffffff;
+    padding: 0;
+font-family: "Tahoma (sans-serif), monospace;
+}
+p {
+    border: 2px solid red;
+    border-radius: 5px;
+  }
+
+header {
+    background-color: #ffffff;
+    color: #e024de;
+    height: 300px;
+    }
+    h1 {
+        text-align: center;} "Singing Lightbulbs"</h>
+    margin-left: 20px;
+    margin-right: 50px;
+    color: blue;
+    text-shadow: 5px 8px 3px white;
+    
+    nav ul {
+        margin: 0;
+        padding: 0;
+    }
+    nav li {
+    display: inline-block;
+    margin: 30px;
+    margin-right: 20px;
+    }
+    nav a{
+        color: blue;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: 400;
+        cursor: pointer;
+        }
+        nav a:hover {
+        color: grey;
+        text-decoration: underline;
+        font-size: 22px;
+        }
+        main {
+        width: 800px;
+        margin: 30px auto;
+        padding: 10px 20px 30px 50px
+        }
+        img {
+            width: 100%;
+            }
+            main p {
+            font-size: 18px;
+            background-color: #ffffff;
+            }
+            .small {
+                width: 50%
+                }
+                .center 
+                margin: 0 auto;
+                display: block;
+                footer {
+                    text-align: center;
+                    background-colour: navy blue;
+                    color: #ffffff;
+                    }
+                    
+                
+            
+    
